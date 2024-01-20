@@ -1,0 +1,24 @@
+{
+  "name": "equalz",
+  "version": "1.0.0",
+  "description": "Fast equals JavaScript library.",
+  "main": "equalz.js",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/jest/bin/jest.js"
+  },
+  "keywords": [
+    "JavaScript",
+    "NodeJS",
+    "Equal",
+    "Equals",
+    "Equality",
+    "Comparator"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/preset-env": "^7.23.8",
+    "@types/jest": "^29.5.11",
+    "jest": "^29.7.0"
+  }
+}
